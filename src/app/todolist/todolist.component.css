@@ -1,0 +1,18 @@
+p {
+    color: red;
+}
+
+.button {
+
+    transition: 0.5s;
+}
+
+.button:hover {
+    cursor: pointer;
+    color: red;
+
+}
+
+.checked {
+    text-decoration: line-through;
+}
